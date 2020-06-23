@@ -15,6 +15,7 @@
 	To run Program_1, perform the following on the command line 
 	./prog_1 output.txt
 
+	Mark: 33.50/35
 ****************************************************************************************/
 
 #include <pthread.h> /* pthread functions and data structures for pipe */

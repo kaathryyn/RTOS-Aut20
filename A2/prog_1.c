@@ -13,6 +13,7 @@
 	To run Program_1, perform the following on the command line 
 	./p1 output.txt
 
+  Mark: 25.33/30
 ****************************************************************************************/
 
 #include <pthread.h>
